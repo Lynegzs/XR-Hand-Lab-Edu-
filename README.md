@@ -211,4 +211,3 @@ Cada estación incluye una misión de indagación *Observar → Señalar → Exp
 - [jsPDF](https://github.com/parallax/jsPDF)
 - Imágenes de [Wikimedia Commons](https://commons.wikimedia.org/) con atribución según su licencia
 
-> Define aquí la licencia de tu proyecto (por ejemplo MIT) y los datos de autoría.
